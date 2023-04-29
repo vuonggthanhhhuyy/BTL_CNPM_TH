@@ -1,0 +1,85 @@
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\Download\BTL2\BTL2\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\Download\BTL2\BTL2\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\Download\BTL2\BTL2\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\Download\BTL2\BTL2\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\52100038_52100846\Ex2\ExerciseOne\obj\Debug\ExerciseOne.pdb
